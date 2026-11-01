@@ -30,7 +30,7 @@
         "php-di/php-di": "6.4",
         "respect/validation": "^2.5",
         "slim/psr7": "^1.6",
-        "slim/slim": "^4.12",
+        "slim/slim": "^4.15",
         "slim/twig-view": "^3.4",
         "vlucas/phpdotenv": "^5.6"
     },
